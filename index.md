@@ -1,4 +1,4 @@
-![Image](images/reptar.png)
+![Viacom International Inc.](images/reptar.png)
 
 ## Welcome to Movie Club
 
